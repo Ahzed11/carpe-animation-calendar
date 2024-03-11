@@ -1,5 +1,5 @@
 <script>
-    import { dateToStringHours, toLocaleDateString } from '$lib/utils';
+	import { dateToStringHours, toLocaleDateString } from '$lib/utils';
 
 	/** @type {import('./$types').PageData} */
 	export let data;
@@ -29,5 +29,5 @@
 </section>
 
 <style>
-	
+
 </style>
